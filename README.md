@@ -26,6 +26,8 @@ Desarrollo de amigo secreto
                          visualización de ultimos 3 ganadores
 ![image](https://github.com/user-attachments/assets/2551d3a9-6df6-43c7-8dc9-ccfa2453087b)
 
+                        Funcionamiento del Juego Amigo Secreto
+ ![Amigo-secreto](https://github.com/user-attachments/assets/db80959c-169b-456a-9a13-d8b91881d342)
 
 ________________________________________
 Contribuciones 💻
