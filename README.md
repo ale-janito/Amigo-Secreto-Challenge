@@ -1,4 +1,4 @@
-# Amigo-Secreto-Challenge
+# Desafio(Amigo-Secreto)
 Desafio_amigo _secreto
 Uso 📖
 1.	Agregar Amigos: Ingresa el nombre de un amigo en el campo de texto y haz clic en "Añadir". El nombre se añadirá a la lista de amigos.
